@@ -24,7 +24,7 @@ GsToDfConverter is a Python class for converting Google Sheets data to Pandas Da
 
 ```python
 # Example usage
-from GsToDfConverter import GsToDfConverter
+from gsheets2dataframe import GsToDfConverter
 import pandas as pd
 
 # Initialize the converter with your Google Sheets document ID
